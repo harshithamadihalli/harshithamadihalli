@@ -1,6 +1,7 @@
 👋 Hi, I’m Harshitha Madihalli, With over 5 years of experience in software automation, I am currently enhancing my expertise in data analytics.
   
-📫 Let's Connect: Interested in discussing opportunities? Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or via email at harshitham195@gmail.com.
+📫 Let's Connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmadihalli/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](harshitham195@gmail.com)
 
 💻 Checkout my Portfolio: [Harshitha's Portfolio](https://harshithamadihalli.my.canva.site/portfolio)
 
