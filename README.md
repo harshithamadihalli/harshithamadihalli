@@ -4,10 +4,12 @@ Connect with Me: <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmadihalli/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](harshitham195@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-009688?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshithamadihalli.my.canva.site/portfolio)
 
-👩‍💻 Checkout my coding skills:
-[Leetcode](https://leetcode.com/u/Harshithamadihalli/)
+Check out: <br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-009688?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshithamadihalli.my.canva.site/portfolio)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harshithamadihalli/)
+
 
 **📂 Key projects:**
 | :point_down: | Repo | Description |
