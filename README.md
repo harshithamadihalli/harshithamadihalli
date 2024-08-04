@@ -2,7 +2,7 @@
   
 📫 Let's Connect: Interested in discussing opportunities? Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or via email at harshitham195@gmail.com.
 
-💻 Checkout my prtfolio: [Harshitha's Portfolio](https://harshithamadihalli.my.canva.site/portfolio)
+💻 Checkout my Portfolio: [Harshitha's Portfolio](https://harshithamadihalli.my.canva.site/portfolio)
 
 **📂 Key projects:**
 | :point_down: | Repo | Description |
