@@ -5,9 +5,7 @@
 💻 Checkout my Portfolio: [Harshitha's Portfolio](https://harshithamadihalli.my.canva.site/portfolio)
 
 👩‍💻 Checkout my coding skills:
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://leetcode.com/u/Harshithamadihalli/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/leetcode/images/1f27e737-4847-49da-80b2-eb08dbd3467f.html" alt="git" width="40" height="40"/> </a>
-</p>
+[Leetcode](https://leetcode.com/u/Harshithamadihalli/)
 
 **📂 Key projects:**
 | :point_down: | Repo | Description |
