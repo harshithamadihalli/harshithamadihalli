@@ -1,7 +1,6 @@
-👋 Hi, I’m @harshithamadihalli, With over 5 years of experience in software automation, I am currently enhancing my expertise in data analytics.
+👋 Hi, I’m Harshitha Madihalli, With over 5 years of experience in software automation, I am currently enhancing my expertise in data analytics.
   
-📫 Let's Connect
-Interested in discussing opportunities? Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or via email at harshitham195@gmail.com.
+📫 Let's Connect: Interested in discussing opportunities? Let’s connect on [LinkedIn](https://www.linkedin.com/in/hmadihalli/) or via email at harshitham195@gmail.com.
 
 **📂 Key projects:**
 | :point_down: | Repo | Description |
