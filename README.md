@@ -9,6 +9,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-009688?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshithamadihalli.my.canva.site/portfolio)
 [![LeetCode](https://img.shields.io/badge/LeetCode-4CAF50?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/harshithamadihalli/)
+[![Tableau](https://img.shields.io/badge/Tableau-00A8E8?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/harshitha.madihalli/vizzes)
+
 
 
 **📂 Key projects:**
