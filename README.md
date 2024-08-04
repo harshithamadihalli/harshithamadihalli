@@ -7,7 +7,7 @@
 
 💻 Checkout my Portfolio: <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://harshithamadihalli.my.canva.site/portfolio))
+[![Portfolio](https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://harshithamadihalli.my.canva.site/portfolio))
 
 👩‍💻 Checkout my coding skills:
 [Leetcode](https://leetcode.com/u/Harshithamadihalli/)
