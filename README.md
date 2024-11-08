@@ -1,4 +1,4 @@
-👋 Hi, I’m Harshitha Madihalli, With over 5 years of experience in software automation, I am currently enhancing my expertise in data analytics.
+👋 Hi, I’m Harshitha Madihalli, With over 5 years of experience in data analysis and software automation, I am currently enhancing my expertise in data analytics.
 
 📫 Connect with Me: <br>
 
