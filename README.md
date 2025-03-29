@@ -20,4 +20,9 @@
 | :package: | [Tableau - Contoso Store Sales Report](https://github.com/Harshitham195/Contoso-Store-Sales-Report) | Collection of my Tableau data analysis and visualization work. |
 | :package: | [Website traffic Analysis](https://github.com/Harshitham195/Website-Traffic-Analysis) | Data Exploration - MySQL |
 | :package: | [Tableau - Electric Vehicle Analysis](https://github.com/Harshitham195/Electric-Vehicle-Analysis) | Collection of my Tableau data analysis and visualization work. |
+| :package: | [Adoption of AI in Campus Food Services](https://github.com/harshithamadihalli/Adoption-of-AI-in-Campus-Food-Services) | Marketing analytics |
+| :package: | https://github.com/harshithamadihalli/Adoption-of-AI-in-Campus-Food-Services | Marketing analytics |
+|:package:  | [Big Data Analysis of NCDC Weather Records](https://github.com/harshithamadihalli/Big-Data-Analysis-of-NCDC-Weather-Records) | Big data analytics |
+
+
 
